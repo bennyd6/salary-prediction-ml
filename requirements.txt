@@ -1,5 +1,5 @@
 Flask==2.2.2
-Flask-CORS==3.1.1
+Flask-CORS==3.0.10  # or Flask-CORS==2.1.0
 joblib==1.2.0
 numpy==1.23.4
 pandas==1.5.2
